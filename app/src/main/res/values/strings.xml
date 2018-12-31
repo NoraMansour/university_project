@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SNS</string>
+    <string-array name="login_type">
+        <item>طالب</item>
+        <item>استاذ</item>
+
+    </string-array>
+
+
+</resources>
